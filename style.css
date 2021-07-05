@@ -5,3 +5,41 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.skip-color{
+    color: rgb(246, 140, 10);
+}
+h1{
+    font-size: 74px;
+    font-weight: 700;
+    margin-left: 20px;
+    padding-top: 60px;
+    opacity: 60%;
+}
+.link-order-food{
+    text-decoration: none;
+    background-image: linear-gradient(orange,rgb(246, 140, 10));
+    color: white;
+    padding: 20px;
+    margin-left: 20px;
+    border-radius: 50px;
+    
+    
+
+}
+.food-heading{
+    display: flex;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+.food-text{
+    width: 50%;
+}
+.food-text img{
+    width: 80%;
+    margin-left: 20px;
+}
+p{
+    font-size: 18px;
+    margin-left: 20px;
+
+}
