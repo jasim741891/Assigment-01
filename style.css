@@ -5,6 +5,36 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.header{
+    
+    background-image: url(image/food/Project\ Cover.png);
+    background-position: top;
+    width: 100%;
+    height: 300px;
+    background-repeat: no-repeat;
+    
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blanchedalmond;
+    color: #fc8f49;
+    font-weight: bold;
+}
+.nav-left{
+    font-size: 35px;
+    margin: 15px;
+    color: rgb(254, 77, 47);
+    padding-right: 40%;
+}
+.nav-right ul li a{
+    color: #fd4a2e;
+    text-decoration: none;
+    font-size: 35px;
+    padding: 10px;
+}
+
 .skip-color{
     color: rgb(246, 140, 10);
 }
@@ -13,9 +43,10 @@ h1{
     font-weight: 700;
     opacity: 60%;
 }
+
 .link-order-food{
     text-decoration: none;
-    background-image: linear-gradient(orange,rgb(246, 140, 10));
+    background-image: linear-gradient(rgb(254, 77, 47), #fc8f49);
     color: white;
     padding: 20px;
     border-radius: 50px;
@@ -26,6 +57,7 @@ h1{
 .food-heading{
     display: flex;
     margin-bottom: 70px;
+    margin-top: 30px;
     
 }
 .food-text{
@@ -96,6 +128,22 @@ h2{
     padding-left: 15%;
     padding-right: 15%;
 }
+.end{
+    background-color: black;
+    padding: 5%;
+}
+.end-h{
+    color:white;
+    text-align: center;
+    font-size: 40px;
+}
+.end-p{
+    color: #666666;
+    text-align: center;
+  
+    
+}
+
 
 
    
