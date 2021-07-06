@@ -11,7 +11,6 @@ body{
 h1{
     font-size: 74px;
     font-weight: 700;
-    margin-left: 20px;
     padding-top: 60px;
     opacity: 60%;
 }
@@ -20,7 +19,6 @@ h1{
     background-image: linear-gradient(orange,rgb(246, 140, 10));
     color: white;
     padding: 20px;
-    margin-left: 20px;
     border-radius: 50px;
     
     
@@ -28,18 +26,41 @@ h1{
 }
 .food-heading{
     display: flex;
-    margin-top: 150px;
-    margin-left: 50px;
+    margin-bottom: 150px;
+    
 }
 .food-text{
     width: 50%;
+    padding-left: 5%;
 }
-.food-text img{
-    width: 80%;
-    margin-left: 20px;
-}
+
 p{
     font-size: 18px;
-    margin-left: 20px;
+    font-weight: 400px;
+}
+.jasim-cover{
+   background-image: url(image/shapes/7.png);
+   background-repeat: no-repeat;
+   background-position: top;
+   
+}
+.image-resiging img{
+     width: 100%;
+    height: 80%;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 18.5%;    
+}
+h2{
+    font-size: 40px;
+    font-weight: 700;
+    opacity: 60%;
+}
+.image-resiging02{
+    text-align: left;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 11%;
 
+    
 }
