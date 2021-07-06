@@ -11,7 +11,6 @@ body{
 h1{
     font-size: 74px;
     font-weight: 700;
-    padding-top: 60px;
     opacity: 60%;
 }
 .link-order-food{
@@ -26,7 +25,7 @@ h1{
 }
 .food-heading{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 70px;
     
 }
 .food-text{
@@ -64,3 +63,45 @@ h2{
 
     
 }
+.card{
+    width: 80%;
+    border-radius: 5px;
+    margin: 40px;
+    box-shadow: 10px 10px 40px black;
+}
+.image img{
+    width: 80%;
+    padding-left: 10%;
+    padding-top: 10%;
+    border-radius: 20px;
+    
+    
+}
+.title{
+    font-size: 400;
+    margin: 10px;
+
+}
+.desh{
+    font-size: 18px;
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.heading{
+    text-align: center;
+    
+}
+.sub-h{
+    text-align: justify;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+
+   
+  
+
+
+
+
+
